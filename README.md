@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Freelance project**
 
-- 🌱 I’m currently learning **Kubernates , Unit Testing**
+- 🌱 I’m currently learning **Unit Testing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MahmoudPro](https://github.com/MahmoudPro)
 
